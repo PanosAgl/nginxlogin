@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "mariadb";
+$dbhost = "172.17.0.3";
 $dbuser = "root";
 $dbpass = "panos";
 $dbname = "kubernetes";
