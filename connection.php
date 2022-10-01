@@ -1,6 +1,6 @@
 <?php 
 
-$dbhost = "172.17.0.3";
+$dbhost = "172.17.0.5";
 $dbuser = "root";
 $dbpass = "panos";
 $dbname = "kubernetes";
